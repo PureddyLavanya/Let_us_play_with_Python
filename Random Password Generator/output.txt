@@ -1,0 +1,3 @@
+Welcome To Python Random Password Generator Application
+Enter the length of password to be generated:6
+Your password is: cgevkQ
